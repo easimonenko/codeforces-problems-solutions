@@ -2,5 +2,7 @@
   <Items>
     <Item>contest-1/contest-1.sln</Item>
     <Item>gym-100082/gym-100082.sln</Item>
+    <Item>contest-2/contest-2.sln</Item>
+    <Item>gym-100007/gym-100007.sln</Item>
   </Items>
 </WorkspaceItem>
