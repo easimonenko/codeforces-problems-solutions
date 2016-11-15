@@ -4,18 +4,17 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ItemType>GenericProject</ItemType>
-    <ProjectGuid>{B8045679-94BF-4395-8C63-0D84AC5333FD}</ProjectGuid>
+    <ProjectGuid>{414D1040-5362-44A8-9613-37703FA27CDD}</ProjectGuid>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Default|AnyCPU' ">
     <OutputPath>.</OutputPath>
   </PropertyGroup>
   <ItemGroup>
     <None Include="01.in" />
+    <None Include="01.out" />
     <None Include="02.in" />
-    <None Include="my-01.in" />
-    <None Include="my-02.in" />
-    <None Include="my-03.in" />
-    <None Include="my-04.in" />
-    <None Include="my-05.in" />
+    <None Include="02.out" />
+    <None Include="03.in" />
+    <None Include="03.out" />
   </ItemGroup>
 </Project>
