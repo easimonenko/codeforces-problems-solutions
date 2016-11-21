@@ -1,5 +1,6 @@
-﻿using System;
-using System.Reflection;
+﻿// Problem Id: 3A
+
+using System;
 
 namespace ccs
 {

@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Problem Id: 6A
+
+using System;
 
 namespace fcs
 {
