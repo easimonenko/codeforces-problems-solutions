@@ -7,7 +7,7 @@
     <ProjectGuid>{75853F8C-0C73-4724-9388-FA0C3DBC840C}</ProjectGuid>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Default|AnyCPU' ">
-    <OutputPath>.\</OutputPath>
+    <OutputPath>.</OutputPath>
   </PropertyGroup>
   <ItemGroup>
     <None Include="01.in" />
