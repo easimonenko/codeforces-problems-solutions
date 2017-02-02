@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-cs", "c-cs\c-cs.csproj", "{A0BD7481-3828-4655-B14B-68D12529F655}"
+EndProject
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "c-tests", "c-tests\c-tests.mdproj", "{46239616-28A0-40E3-8988-A4FBB89035FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46239616-28A0-40E3-8988-A4FBB89035FE}.Debug|x86.ActiveCfg = Default|Any CPU
+		{46239616-28A0-40E3-8988-A4FBB89035FE}.Debug|x86.Build.0 = Default|Any CPU
+		{46239616-28A0-40E3-8988-A4FBB89035FE}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{46239616-28A0-40E3-8988-A4FBB89035FE}.Default|Any CPU.Build.0 = Default|Any CPU
+		{46239616-28A0-40E3-8988-A4FBB89035FE}.Release|x86.ActiveCfg = Default|Any CPU
+		{46239616-28A0-40E3-8988-A4FBB89035FE}.Release|x86.Build.0 = Default|Any CPU
+		{A0BD7481-3828-4655-B14B-68D12529F655}.Debug|x86.ActiveCfg = Debug|x86
+		{A0BD7481-3828-4655-B14B-68D12529F655}.Debug|x86.Build.0 = Debug|x86
+		{A0BD7481-3828-4655-B14B-68D12529F655}.Default|Any CPU.ActiveCfg = Debug|x86
+		{A0BD7481-3828-4655-B14B-68D12529F655}.Default|Any CPU.Build.0 = Debug|x86
+		{A0BD7481-3828-4655-B14B-68D12529F655}.Release|x86.ActiveCfg = Release|x86
+		{A0BD7481-3828-4655-B14B-68D12529F655}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
