@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-cs", "c-cs\c-cs.csproj", "{0C96B385-390B-4510-BD70-10C2502CDF43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d-cs", "d-cs\d-cs.csproj", "{42E36A0D-65AE-414D-BB3A-AEA55CACE272}"
+EndProject
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "d-tests", "d-tests\d-tests.mdproj", "{AB792A62-E2C8-4194-BA23-275FE8212348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C96B385-390B-4510-BD70-10C2502CDF43}.Debug|x86.ActiveCfg = Debug|x86
+		{0C96B385-390B-4510-BD70-10C2502CDF43}.Debug|x86.Build.0 = Debug|x86
+		{0C96B385-390B-4510-BD70-10C2502CDF43}.Default|Any CPU.ActiveCfg = Debug|x86
+		{0C96B385-390B-4510-BD70-10C2502CDF43}.Default|Any CPU.Build.0 = Debug|x86
+		{0C96B385-390B-4510-BD70-10C2502CDF43}.Release|x86.ActiveCfg = Release|x86
+		{0C96B385-390B-4510-BD70-10C2502CDF43}.Release|x86.Build.0 = Release|x86
+		{42E36A0D-65AE-414D-BB3A-AEA55CACE272}.Debug|x86.ActiveCfg = Debug|x86
+		{42E36A0D-65AE-414D-BB3A-AEA55CACE272}.Debug|x86.Build.0 = Debug|x86
+		{42E36A0D-65AE-414D-BB3A-AEA55CACE272}.Default|Any CPU.ActiveCfg = Debug|x86
+		{42E36A0D-65AE-414D-BB3A-AEA55CACE272}.Default|Any CPU.Build.0 = Debug|x86
+		{42E36A0D-65AE-414D-BB3A-AEA55CACE272}.Release|x86.ActiveCfg = Release|x86
+		{42E36A0D-65AE-414D-BB3A-AEA55CACE272}.Release|x86.Build.0 = Release|x86
+		{AB792A62-E2C8-4194-BA23-275FE8212348}.Debug|x86.ActiveCfg = Default|Any CPU
+		{AB792A62-E2C8-4194-BA23-275FE8212348}.Debug|x86.Build.0 = Default|Any CPU
+		{AB792A62-E2C8-4194-BA23-275FE8212348}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{AB792A62-E2C8-4194-BA23-275FE8212348}.Default|Any CPU.Build.0 = Default|Any CPU
+		{AB792A62-E2C8-4194-BA23-275FE8212348}.Release|x86.ActiveCfg = Default|Any CPU
+		{AB792A62-E2C8-4194-BA23-275FE8212348}.Release|x86.Build.0 = Default|Any CPU
+	EndGlobalSection
+EndGlobal
