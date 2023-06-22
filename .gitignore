@@ -324,8 +324,16 @@ flycheck_*.el
 # network security
 /network-security.data
 
+# emacs-lsp
+
+.ccls-cache
+
 # Local
 
 a.out
 main
 *.exe
+a
+b
+c
+d
